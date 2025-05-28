@@ -1,0 +1,5 @@
+str1=input("Enter a string:")
+unique_char=set(str1)
+print(unique_char)
+count=len(unique_char)
+print("No of unique char:",count)
