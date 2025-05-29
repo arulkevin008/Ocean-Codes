@@ -12,14 +12,6 @@
 ##    if i%2==0:
 ##        print(i)
 
-#4.Divisible by 3,5.
-for i in range(1,16):
-    if(i%3==0):
-        print(i,"Divisible by 3")
-        if(i%5==0):
-            print(i,"Divisible by 5")
-            if(i%3==0 and i%5==0):
-                print(i,"Divisible by 3 and 5")
 
 #5.Elements of a list.
 ##list=[0,5,10,15,20]
