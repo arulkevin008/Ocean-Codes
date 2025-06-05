@@ -1,6 +1,6 @@
-#1.No from 1 to 15.
-##for i in range(1,16):
-##    print(i)
+for i in range(1,16):
+    print(i)
+    print("Loop Completed")
 
 #2.No from 6 to 29.
 ##for i in range(6,30):
