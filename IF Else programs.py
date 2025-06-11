@@ -52,7 +52,3 @@ elif(c<b and c<a):
     print("Employee C has the minimum salary")
 else:
     print("Salaries of the three employees are same")
-
-#8 Leap Year
-
-
